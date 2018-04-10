@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 5e89fe0f20dd6d046830e580d3928f92
+timeCreated: 1494338428
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "J.\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    100004: "J.\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    100006: "J.\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    100008: "J.\u53F3\u80A9\u93A7"
+    100010: "J.\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    100012: "J.\u5DE6\u80A9\u93A7"
+    100014: joints
+    100016: rigidbodies
+    100018: "\u3064\u307E\u5148.L"
+    100020: "\u3064\u307E\u5148.L_end"
+    100022: "\u3064\u307E\u5148.R"
+    100024: "\u3064\u307E\u5148.R_end"
+    100026: "\u3064\u307E\u5148\uFF29\uFF2B.L"
+    100028: "\u3064\u307E\u5148\uFF29\uFF2B.L_end"
+    100030: "\u3064\u307E\u5148\uFF29\uFF2B.R"
+    100032: "\u3064\u307E\u5148\uFF29\uFF2B.R_end"
+    100034: "\u3072\u3056.L"
+    100036: "\u3072\u3056.R"
+    100038: "\u3072\u3058.L"
+    100040: "\u3072\u3058.R"
+    100042: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L"
+    100044: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L_end"
+    100046: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R"
+    100048: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R_end"
+    100050: "\u30BB\u30F3\u30BF\u30FC"
+    100052: "\u30C4\u30CE"
+    100054: "\u30C4\u30CE_end"
+    100056: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90"
+    100058: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90_end"
+    100060: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91"
+    100062: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91_end"
+    100064: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    100066: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC 1"
+    100068: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC_end"
+    100070: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+    100072: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3 1"
+    100074: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    100076: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC 1"
+    100078: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC_end"
+    100080: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+    100082: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_arm"
+    100084: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_mesh"
+    100086: "\u4E0A\u534A\u8EAB"
+    100088: "\u4E0A\u534A\u8EAB 1"
+    100090: "\u4E0A\u534A\u8EAB2"
+    100092: "\u4E0A\u534A\u8EAB2 1"
+    100094: "\u4E0B\u534A\u8EAB"
+    100096: "\u4E0B\u534A\u8EAB 1"
+    100098: "\u4E2D\u6307\uFF11.L"
+    100100: "\u4E2D\u6307\uFF11.R"
+    100102: "\u4E2D\u6307\uFF12.L"
+    100104: "\u4E2D\u6307\uFF12.L_end"
+    100106: "\u4E2D\u6307\uFF12.R"
+    100108: "\u4E2D\u6307\uFF12.R_end"
+    100110: "\u4EBA\u6307\uFF11.L"
+    100112: "\u4EBA\u6307\uFF11.R"
+    100114: "\u4EBA\u6307\uFF12.L"
+    100116: "\u4EBA\u6307\uFF12.L_end"
+    100118: "\u4EBA\u6307\uFF12.R"
+    100120: "\u4EBA\u6307\uFF12.R_end"
+    100122: "\u5168\u3066\u306E\u89AA"
+    100124: "\u53F3\u3072\u3056"
+    100126: "\u53F3\u3072\u3058"
+    100128: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    100130: "\u53F3\u80A9\u93A7"
+    100132: "\u53F3\u8155"
+    100134: "\u53F3\u8DB3"
+    100136: "\u5DE6\u3072\u3056"
+    100138: "\u5DE6\u3072\u3058"
+    100140: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    100142: "\u5DE6\u80A9\u93A7"
+    100144: "\u5DE6\u8155"
+    100146: "\u5DE6\u8DB3"
+    100148: "\u624B\u30B9\u30D1\u30A4\u30AF.L"
+    100150: "\u624B\u30B9\u30D1\u30A4\u30AF.L_end"
+    100152: "\u624B\u30B9\u30D1\u30A4\u30AF.R"
+    100154: "\u624B\u30B9\u30D1\u30A4\u30AF.R_end"
+    100156: "\u624B\u9996.L"
+    100158: "\u624B\u9996.R"
+    100160: "\u80A9.L"
+    100162: "\u80A9.R"
+    100164: "\u80A9\u93A7.L"
+    100166: "\u80A9\u93A7.L_end"
+    100168: "\u80A9\u93A7.R"
+    100170: "\u80A9\u93A7.R_end"
+    100172: "\u8155.L"
+    100174: "\u8155.R"
+    100176: "\u8155\u30B9\u30D1\u30A4\u30AF.L"
+    100178: "\u8155\u30B9\u30D1\u30A4\u30AF.L_end"
+    100180: "\u8155\u30B9\u30D1\u30A4\u30AF.R"
+    100182: "\u8155\u30B9\u30D1\u30A4\u30AF.R_end"
+    100184: "\u85AC\u6307\uFF11.L"
+    100186: "\u85AC\u6307\uFF11.R"
+    100188: "\u85AC\u6307\uFF12.L"
+    100190: "\u85AC\u6307\uFF12.L_end"
+    100192: "\u85AC\u6307\uFF12.R"
+    100194: "\u85AC\u6307\uFF12.R_end"
+    100196: "\u89AA\u6307\uFF10.L"
+    100198: "\u89AA\u6307\uFF10.R"
+    100200: "\u89AA\u6307\uFF11.L"
+    100202: "\u89AA\u6307\uFF11.L_end"
+    100204: "\u89AA\u6307\uFF11.R"
+    100206: "\u89AA\u6307\uFF11.R_end"
+    100208: "\u8DB3.L"
+    100210: "\u8DB3.R"
+    100212: "\u8DB3\u9996.L"
+    100214: "\u8DB3\u9996.R"
+    100216: "\u8DB3\uFF29\uFF2B.L"
+    100218: "\u8DB3\uFF29\uFF2B.R"
+    100220: "\u982D"
+    100222: "\u9996"
+    400000: //RootNode
+    400002: "J.\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    400004: "J.\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    400006: "J.\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    400008: "J.\u53F3\u80A9\u93A7"
+    400010: "J.\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    400012: "J.\u5DE6\u80A9\u93A7"
+    400014: joints
+    400016: rigidbodies
+    400018: "\u3064\u307E\u5148.L"
+    400020: "\u3064\u307E\u5148.L_end"
+    400022: "\u3064\u307E\u5148.R"
+    400024: "\u3064\u307E\u5148.R_end"
+    400026: "\u3064\u307E\u5148\uFF29\uFF2B.L"
+    400028: "\u3064\u307E\u5148\uFF29\uFF2B.L_end"
+    400030: "\u3064\u307E\u5148\uFF29\uFF2B.R"
+    400032: "\u3064\u307E\u5148\uFF29\uFF2B.R_end"
+    400034: "\u3072\u3056.L"
+    400036: "\u3072\u3056.R"
+    400038: "\u3072\u3058.L"
+    400040: "\u3072\u3058.R"
+    400042: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L"
+    400044: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L_end"
+    400046: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R"
+    400048: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R_end"
+    400050: "\u30BB\u30F3\u30BF\u30FC"
+    400052: "\u30C4\u30CE"
+    400054: "\u30C4\u30CE_end"
+    400056: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90"
+    400058: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90_end"
+    400060: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91"
+    400062: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91_end"
+    400064: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    400066: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC 1"
+    400068: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC_end"
+    400070: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+    400072: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3 1"
+    400074: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    400076: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC 1"
+    400078: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC_end"
+    400080: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+    400082: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_arm"
+    400084: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_mesh"
+    400086: "\u4E0A\u534A\u8EAB"
+    400088: "\u4E0A\u534A\u8EAB 1"
+    400090: "\u4E0A\u534A\u8EAB2"
+    400092: "\u4E0A\u534A\u8EAB2 1"
+    400094: "\u4E0B\u534A\u8EAB"
+    400096: "\u4E0B\u534A\u8EAB 1"
+    400098: "\u4E2D\u6307\uFF11.L"
+    400100: "\u4E2D\u6307\uFF11.R"
+    400102: "\u4E2D\u6307\uFF12.L"
+    400104: "\u4E2D\u6307\uFF12.L_end"
+    400106: "\u4E2D\u6307\uFF12.R"
+    400108: "\u4E2D\u6307\uFF12.R_end"
+    400110: "\u4EBA\u6307\uFF11.L"
+    400112: "\u4EBA\u6307\uFF11.R"
+    400114: "\u4EBA\u6307\uFF12.L"
+    400116: "\u4EBA\u6307\uFF12.L_end"
+    400118: "\u4EBA\u6307\uFF12.R"
+    400120: "\u4EBA\u6307\uFF12.R_end"
+    400122: "\u5168\u3066\u306E\u89AA"
+    400124: "\u53F3\u3072\u3056"
+    400126: "\u53F3\u3072\u3058"
+    400128: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    400130: "\u53F3\u80A9\u93A7"
+    400132: "\u53F3\u8155"
+    400134: "\u53F3\u8DB3"
+    400136: "\u5DE6\u3072\u3056"
+    400138: "\u5DE6\u3072\u3058"
+    400140: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    400142: "\u5DE6\u80A9\u93A7"
+    400144: "\u5DE6\u8155"
+    400146: "\u5DE6\u8DB3"
+    400148: "\u624B\u30B9\u30D1\u30A4\u30AF.L"
+    400150: "\u624B\u30B9\u30D1\u30A4\u30AF.L_end"
+    400152: "\u624B\u30B9\u30D1\u30A4\u30AF.R"
+    400154: "\u624B\u30B9\u30D1\u30A4\u30AF.R_end"
+    400156: "\u624B\u9996.L"
+    400158: "\u624B\u9996.R"
+    400160: "\u80A9.L"
+    400162: "\u80A9.R"
+    400164: "\u80A9\u93A7.L"
+    400166: "\u80A9\u93A7.L_end"
+    400168: "\u80A9\u93A7.R"
+    400170: "\u80A9\u93A7.R_end"
+    400172: "\u8155.L"
+    400174: "\u8155.R"
+    400176: "\u8155\u30B9\u30D1\u30A4\u30AF.L"
+    400178: "\u8155\u30B9\u30D1\u30A4\u30AF.L_end"
+    400180: "\u8155\u30B9\u30D1\u30A4\u30AF.R"
+    400182: "\u8155\u30B9\u30D1\u30A4\u30AF.R_end"
+    400184: "\u85AC\u6307\uFF11.L"
+    400186: "\u85AC\u6307\uFF11.R"
+    400188: "\u85AC\u6307\uFF12.L"
+    400190: "\u85AC\u6307\uFF12.L_end"
+    400192: "\u85AC\u6307\uFF12.R"
+    400194: "\u85AC\u6307\uFF12.R_end"
+    400196: "\u89AA\u6307\uFF10.L"
+    400198: "\u89AA\u6307\uFF10.R"
+    400200: "\u89AA\u6307\uFF11.L"
+    400202: "\u89AA\u6307\uFF11.L_end"
+    400204: "\u89AA\u6307\uFF11.R"
+    400206: "\u89AA\u6307\uFF11.R_end"
+    400208: "\u8DB3.L"
+    400210: "\u8DB3.R"
+    400212: "\u8DB3\u9996.L"
+    400214: "\u8DB3\u9996.R"
+    400216: "\u8DB3\uFF29\uFF2B.L"
+    400218: "\u8DB3\uFF29\uFF2B.R"
+    400220: "\u982D"
+    400222: "\u9996"
+    2300000: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    2300002: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+    2300004: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    2300006: "\u4E0A\u534A\u8EAB"
+    2300008: "\u4E0A\u534A\u8EAB2"
+    2300010: "\u4E0B\u534A\u8EAB"
+    2300012: "\u53F3\u3072\u3056"
+    2300014: "\u53F3\u3072\u3058"
+    2300016: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    2300018: "\u53F3\u80A9\u93A7"
+    2300020: "\u53F3\u8155"
+    2300022: "\u53F3\u8DB3"
+    2300024: "\u5DE6\u3072\u3056"
+    2300026: "\u5DE6\u3072\u3058"
+    2300028: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    2300030: "\u5DE6\u80A9\u93A7"
+    2300032: "\u5DE6\u8155"
+    2300034: "\u5DE6\u8DB3"
+    3300000: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    3300002: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+    3300004: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    3300006: "\u4E0A\u534A\u8EAB"
+    3300008: "\u4E0A\u534A\u8EAB2"
+    3300010: "\u4E0B\u534A\u8EAB"
+    3300012: "\u53F3\u3072\u3056"
+    3300014: "\u53F3\u3072\u3058"
+    3300016: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    3300018: "\u53F3\u80A9\u93A7"
+    3300020: "\u53F3\u8155"
+    3300022: "\u53F3\u8DB3"
+    3300024: "\u5DE6\u3072\u3056"
+    3300026: "\u5DE6\u3072\u3058"
+    3300028: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    3300030: "\u5DE6\u80A9\u93A7"
+    3300032: "\u5DE6\u8155"
+    3300034: "\u5DE6\u8DB3"
+    4300000: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+    4300002: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+    4300004: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    4300006: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+    4300008: "\u53F3\u80A9\u93A7"
+    4300010: "\u5DE6\u80A9\u93A7"
+    4300012: "\u53F3\u3072\u3056"
+    4300014: "\u53F3\u8DB3"
+    4300016: "\u5DE6\u3072\u3056"
+    4300018: "\u5DE6\u8DB3"
+    4300020: "\u4E0B\u534A\u8EAB"
+    4300022: "\u53F3\u3072\u3058"
+    4300024: "\u53F3\u8155"
+    4300026: "\u5DE6\u3072\u3058"
+    4300028: "\u5DE6\u8155"
+    4300030: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+    4300032: "\u4E0A\u534A\u8EAB2"
+    4300034: "\u4E0A\u534A\u8EAB"
+    4300036: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_mesh"
+    9500000: //RootNode
+    13700000: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_mesh"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: "\u30BB\u30F3\u30BF\u30FC"
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8DB3.L"
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8DB3.R"
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u3072\u3056.L"
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u3072\u3056.R"
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8DB3\u9996.L"
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8DB3\u9996.R"
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E0A\u534A\u8EAB 1"
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E0A\u534A\u8EAB2 1"
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u9996"
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u982D"
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u80A9.L"
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u80A9.R"
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8155.L"
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u8155.R"
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u3072\u3058.L"
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u3072\u3058.R"
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u624B\u9996.L"
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u624B\u9996.R"
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3 1"
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u89AA\u6307\uFF10.L"
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u89AA\u6307\uFF11.L"
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4EBA\u6307\uFF11.L"
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4EBA\u6307\uFF12.L"
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E2D\u6307\uFF11.L"
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E2D\u6307\uFF12.L"
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u85AC\u6307\uFF11.L"
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u85AC\u6307\uFF12.L"
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u89AA\u6307\uFF10.R"
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u89AA\u6307\uFF11.R"
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4EBA\u6307\uFF11.R"
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4EBA\u6307\uFF12.R"
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E2D\u6307\uFF11.R"
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u4E2D\u6307\uFF12.R"
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u85AC\u6307\uFF11.R"
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: "\u85AC\u6307\uFF12.R"
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BOSS(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+      parentName: BOSS(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: joints
+      parentName: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+      parentName: joints
+      position: {x: -0, y: -0.0061812876, z: 0.029249398}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+      parentName: joints
+      position: {x: -9.258794e-18, y: 0.0051782043, z: 0.03191108}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+      parentName: joints
+      position: {x: 0.00777018, y: 0, z: 0.028525999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u53F3\u80A9\u93A7"
+      parentName: joints
+      position: {x: 0.007664902, y: 0.0003325604, z: 0.045513395}
+      rotation: {x: 0, y: 0.38268346, z: -0, w: 0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+      parentName: joints
+      position: {x: -0.00777018, y: 0, z: 0.028525999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "J.\u5DE6\u80A9\u93A7"
+      parentName: joints
+      position: {x: -0.007664902, y: 0.0003325604, z: 0.045513395}
+      rotation: {x: 0, y: -0.38268346, z: -0, w: 0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rigidbodies
+      parentName: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC"
+      parentName: rigidbodies
+      position: {x: -0, y: -0.006181288, z: 0.024612598}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3"
+      parentName: rigidbodies
+      position: {x: 2.763748e-10, y: -0.009375332, z: 0.059401482}
+      rotation: {x: -0.6496298, y: 0, z: -0, w: 0.7602508}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC"
+      parentName: rigidbodies
+      position: {x: -9.258794e-18, y: 0.0051782043, z: 0.027737966}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0A\u534A\u8EAB"
+      parentName: rigidbodies
+      position: {x: -0, y: 0, z: 0.03766256}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0A\u534A\u8EAB2"
+      parentName: rigidbodies
+      position: {x: -0, y: 0, z: 0.042415287}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0B\u534A\u8EAB"
+      parentName: rigidbodies
+      position: {x: -0, y: 0, z: 0.032523442}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u3072\u3056"
+      parentName: rigidbodies
+      position: {x: 0.004528056, y: -5.2069724e-12, z: 0.010397175}
+      rotation: {x: 1.0891995e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u3072\u3058"
+      parentName: rigidbodies
+      position: {x: 0.019651823, y: 8.336718e-10, z: 0.035256322}
+      rotation: {x: -0.000000009725336, y: 0.9170388, z: 0.000000022363453, w: 0.39879805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+      parentName: rigidbodies
+      position: {x: 0.0089930715, y: 0, z: 0.0243018}
+      rotation: {x: 0, y: -0.023789302, z: -0, w: 0.999717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u80A9\u93A7"
+      parentName: rigidbodies
+      position: {x: 0.011612268, y: 0.00033256042, z: 0.045530695}
+      rotation: {x: 0, y: 0.705647, z: -0, w: 0.70856357}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: "\u53F3\u8155"
+      parentName: rigidbodies
+      position: {x: 0.010659811, y: 1.5582506e-10, z: 0.042587932}
+      rotation: {x: -0.00000001558965, y: 0.8884091, z: 0.000000030170817, w: 0.45905265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u53F3\u8DB3"
+      parentName: rigidbodies
+      position: {x: 0.0048374375, y: -3.102613e-11, z: 0.022416072}
+      rotation: {x: 0.0000000018621359, y: 0.023393685, z: -4.3574144e-11, w: 0.99972636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u3072\u3056"
+      parentName: rigidbodies
+      position: {x: -0.004528056, y: -5.2069724e-12, z: 0.010397175}
+      rotation: {x: 1.0891995e-10, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u3072\u3058"
+      parentName: rigidbodies
+      position: {x: -0.019651823, y: 8.336718e-10, z: 0.035256322}
+      rotation: {x: 0.000000009725336, y: 0.9170388, z: 0.000000022363453, w: -0.39879805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC"
+      parentName: rigidbodies
+      position: {x: -0.0089930715, y: 0, z: 0.0243018}
+      rotation: {x: 0, y: 0.023789302, z: -0, w: 0.999717}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u80A9\u93A7"
+      parentName: rigidbodies
+      position: {x: -0.011612268, y: 0.00033256042, z: 0.045530695}
+      rotation: {x: 0, y: -0.705647, z: -0, w: 0.70856357}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: "\u5DE6\u8155"
+      parentName: rigidbodies
+      position: {x: -0.010659811, y: 1.5582506e-10, z: 0.042587932}
+      rotation: {x: 0.00000001558965, y: 0.8884091, z: 0.000000030170817, w: -0.45905265}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5DE6\u8DB3"
+      parentName: rigidbodies
+      position: {x: -0.0048374375, y: -3.102613e-11, z: 0.022416072}
+      rotation: {x: 0.0000000018621359, y: -0.023393685, z: 4.3574144e-11, w: 0.99972636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_arm"
+      parentName: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u5168\u3066\u306E\u89AA"
+      parentName: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_arm"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30BB\u30F3\u30BF\u30FC"
+      parentName: "\u5168\u3066\u306E\u89AA"
+      position: {x: 7.817319e-19, y: 0.021520607, z: -0.0025206076}
+      rotation: {x: -0.00000005338508, y: 0.7071068, z: 0.7071067, w: -0.000000053385072}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0A\u534A\u8EAB 1"
+      parentName: "\u30BB\u30F3\u30BF\u30FC"
+      position: {x: -0.0000000012591636, y: 0.0025206076, z: 0.014403152}
+      rotation: {x: 0.000000022476472, y: 0.7071068, z: 0.7071067, w: 0.00000008429369}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0A\u534A\u8EAB2 1"
+      parentName: "\u4E0A\u534A\u8EAB 1"
+      position: {x: 4.2351645e-23, y: 0.0034776044, z: -1.0262021e-30}
+      rotation: {x: -3.387853e-22, y: 0.00000003178652, z: -1.0658142e-14, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "\u9996"
+      parentName: "\u4E0A\u534A\u8EAB2 1"
+      position: {x: -7.011155e-24, y: 0.009737289, z: -3.7455755e-31}
+      rotation: {x: 0.23908575, y: -0.000000007753453, z: -0.000000020946663, w: 0.97099847}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "\u982D"
+      parentName: "\u9996"
+      position: {x: -1.5987211e-16, y: 0.0068945596, z: 0.000000002980232}
+      rotation: {x: 0.38195318, y: 0.000000018017824, z: -2.533165e-10, w: 0.9241817}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3 1"
+      parentName: "\u982D"
+      position: {x: 1.8467947e-10, y: 0.0021391984, z: -0.0022941951}
+      rotation: {x: 0.06424045, y: 1.9020243e-12, z: -1.2303894e-13, w: 0.99793446}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: "\u30C4\u30CE"
+      parentName: "\u30E1\u30BF\u30EB\u30DB\u30FC\u30F3 1"
+      position: {x: -1.3818742e-10, y: 0.00951497, z: -0.0013285404}
+      rotation: {x: -0.5308842, y: -2.6523772e-10, z: 2.0810563e-11, w: 0.84744436}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30C4\u30CE_end"
+      parentName: "\u30C4\u30CE"
+      position: {x: -0, y: 0.014046414, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90"
+      parentName: "\u9996"
+      position: {x: -3.882644e-10, y: 0.0061444817, z: -0.0032203614}
+      rotation: {x: 0.99831146, y: 0.0000000070446253, z: -0.000000016559259, w: -0.058088444}
+      scale: {x: 1, y: 1, z: 0.99999714}
+    - name: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90_end"
+      parentName: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C90"
+      position: {x: -0, y: 0.0047653494, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91"
+      parentName: "\u9996"
+      position: {x: -3.606545e-10, y: 0.0021327052, z: -0.0030220281}
+      rotation: {x: 0.9998612, y: 0.000000008603829, z: -0.00000001626776, w: 0.016661784}
+      scale: {x: 1, y: 0.99999994, z: 1.0000486}
+    - name: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91_end"
+      parentName: "\u30CD\u30C3\u30AF\u30AC\u30FC\u30C91"
+      position: {x: -0, y: 0.0043799365, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u80A9.L"
+      parentName: "\u4E0A\u534A\u8EAB2 1"
+      position: {x: -0.0033566975, y: 0.0066124317, z: 1.1155023e-10}
+      rotation: {x: 0.515592, y: -0.49975815, z: -0.4997555, w: -0.48440805}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: "\u8155.L"
+      parentName: "\u80A9.L"
+      position: {x: -1.04816635e-10, y: 0.0025882486, z: 0.0000000036435184}
+      rotation: {x: -0.011645228, y: 0.28868318, z: -0.0039119124, w: 0.9573459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3072\u3058.L"
+      parentName: "\u8155.L"
+      position: {x: -4.5227297e-10, y: 0.011564048, z: 0.0000000012940712}
+      rotation: {x: -0.008542431, y: 0.066669, z: -0.0069596856, w: 0.99771434}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "\u624B\u9996.L"
+      parentName: "\u3072\u3058.L"
+      position: {x: -1.7114622e-10, y: 0.0116919065, z: 9.518436e-10}
+      rotation: {x: -0.012593333, y: 0.017503228, z: -0.0121598905, w: 0.9996936}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: "\u624B\u30B9\u30D1\u30A4\u30AF.L"
+      parentName: "\u624B\u9996.L"
+      position: {x: -0.0016843867, y: 0.0016536837, z: 0.0016922592}
+      rotation: {x: 0.821718, y: -0.4551833, z: -0.17799205, w: 0.29309827}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "\u624B\u30B9\u30D1\u30A4\u30AF.L_end"
+      parentName: "\u624B\u30B9\u30D1\u30A4\u30AF.L"
+      position: {x: -0, y: 0.0040339143, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u89AA\u6307\uFF10.L"
+      parentName: "\u624B\u9996.L"
+      position: {x: -0.00077452644, y: 0.0022326505, z: -0.0036694696}
+      rotation: {x: -0.20702325, y: 0.0116021205, z: 0.24834585, w: 0.94621944}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: "\u89AA\u6307\uFF11.L"
+      parentName: "\u89AA\u6307\uFF10.L"
+      position: {x: 0.0000000020861626, y: 0.0027668553, z: -0.000000002682209}
+      rotation: {x: 0.01399925, y: 0.00000063236786, z: -0.01400093, w: 0.999804}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: "\u89AA\u6307\uFF11.L_end"
+      parentName: "\u89AA\u6307\uFF11.L"
+      position: {x: -0, y: 0.0068094325, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4EBA\u6307\uFF11.L"
+      parentName: "\u624B\u9996.L"
+      position: {x: -0.0025003077, y: 0.0047718403, z: -0.0013490636}
+      rotation: {x: -0.17458658, y: 0.25697324, z: 0.124955565, w: 0.9422688}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: "\u4EBA\u6307\uFF12.L"
+      parentName: "\u4EBA\u6307\uFF11.L"
+      position: {x: 7.45058e-10, y: 0.0026205895, z: 0.0000000017881393}
+      rotation: {x: 0.0027532016, y: -0.00785867, z: 0.007360949, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u4EBA\u6307\uFF12.L_end"
+      parentName: "\u4EBA\u6307\uFF12.L"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF11.L"
+      parentName: "\u624B\u9996.L"
+      position: {x: -0.0006098442, y: 0.004771841, z: 0.00054139923}
+      rotation: {x: -0.17458695, y: 0.25697294, z: 0.12495494, w: 0.9422689}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF12.L"
+      parentName: "\u4E2D\u6307\uFF11.L"
+      position: {x: 6.0535965e-10, y: 0.0026205932, z: 5.820766e-10}
+      rotation: {x: 0.0027531504, y: -0.007858715, z: 0.0073610134, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF12.L_end"
+      parentName: "\u4E2D\u6307\uFF12.L"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u85AC\u6307\uFF11.L"
+      parentName: "\u624B\u9996.L"
+      position: {x: 0.0012806192, y: 0.0047718417, z: 0.002431862}
+      rotation: {x: -0.17458558, y: 0.2569738, z: 0.124955624, w: 0.9422688}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: "\u85AC\u6307\uFF12.L"
+      parentName: "\u85AC\u6307\uFF11.L"
+      position: {x: -3.72529e-10, y: 0.0026205904, z: -0.0000000011920929}
+      rotation: {x: 0.0027531842, y: -0.0078587225, z: 0.007361054, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u85AC\u6307\uFF12.L_end"
+      parentName: "\u85AC\u6307\uFF12.L"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8155\u30B9\u30D1\u30A4\u30AF.L"
+      parentName: "\u3072\u3058.L"
+      position: {x: -0.0020735092, y: 0.0022609115, z: 0.0023238135}
+      rotation: {x: 0.8409602, y: -0.36571303, z: -0.36571363, w: 0.1590393}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: "\u8155\u30B9\u30D1\u30A4\u30AF.L_end"
+      parentName: "\u8155\u30B9\u30D1\u30A4\u30AF.L"
+      position: {x: -0, y: 0.00590168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u80A9\u93A7.L"
+      parentName: "\u8155.L"
+      position: {x: -0.000106817446, y: 0.0016467153, z: 0.0007254213}
+      rotation: {x: 0.37812507, y: -0.35714084, z: 0.08421508, w: 0.8499292}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: "\u80A9\u93A7.L_end"
+      parentName: "\u80A9\u93A7.L"
+      position: {x: -0, y: 0.007896184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u80A9.R"
+      parentName: "\u4E0A\u534A\u8EAB2 1"
+      position: {x: 0.0033566975, y: 0.0066124317, z: 1.1155017e-10}
+      rotation: {x: 0.515592, y: 0.49975815, z: 0.4997555, w: -0.48440805}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1}
+    - name: "\u8155.R"
+      parentName: "\u80A9.R"
+      position: {x: 1.0481667e-10, y: 0.0025882486, z: 0.0000000036435184}
+      rotation: {x: -0.0116452575, y: -0.28868312, z: 0.003911495, w: 0.95734596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3072\u3058.R"
+      parentName: "\u8155.R"
+      position: {x: 4.5227302e-10, y: 0.011564048, z: 0.0000000012940711}
+      rotation: {x: -0.008542518, y: -0.066668876, z: 0.006959958, w: 0.99771434}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "\u624B\u9996.R"
+      parentName: "\u3072\u3058.R"
+      position: {x: 1.7114622e-10, y: 0.0116919065, z: 9.518436e-10}
+      rotation: {x: -0.012593333, y: -0.017503228, z: 0.0121598905, w: 0.9996936}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: "\u624B\u30B9\u30D1\u30A4\u30AF.R"
+      parentName: "\u624B\u9996.R"
+      position: {x: 0.0016843867, y: 0.0016536837, z: 0.0016922592}
+      rotation: {x: 0.821718, y: 0.4551833, z: 0.17799205, w: 0.29309827}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: "\u624B\u30B9\u30D1\u30A4\u30AF.R_end"
+      parentName: "\u624B\u30B9\u30D1\u30A4\u30AF.R"
+      position: {x: -0, y: 0.0040339143, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4EBA\u6307\uFF11.R"
+      parentName: "\u624B\u9996.R"
+      position: {x: 0.0025003077, y: 0.0047718403, z: -0.0013490636}
+      rotation: {x: -0.17458661, y: -0.25697315, z: -0.124956094, w: 0.94226867}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: "\u4EBA\u6307\uFF12.R"
+      parentName: "\u4EBA\u6307\uFF11.R"
+      position: {x: -7.45058e-10, y: 0.0026205895, z: 0.0000000017881393}
+      rotation: {x: 0.0027532016, y: 0.00785867, z: -0.007360949, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u4EBA\u6307\uFF12.R_end"
+      parentName: "\u4EBA\u6307\uFF12.R"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF11.R"
+      parentName: "\u624B\u9996.R"
+      position: {x: 0.0006098442, y: 0.004771841, z: 0.00054139923}
+      rotation: {x: -0.17458642, y: -0.25697336, z: -0.12495643, w: 0.9422686}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF12.R"
+      parentName: "\u4E2D\u6307\uFF11.R"
+      position: {x: -6.0535965e-10, y: 0.0026205932, z: 5.820766e-10}
+      rotation: {x: 0.0027531504, y: 0.007858715, z: -0.0073610134, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E2D\u6307\uFF12.R_end"
+      parentName: "\u4E2D\u6307\uFF12.R"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u85AC\u6307\uFF11.R"
+      parentName: "\u624B\u9996.R"
+      position: {x: -0.0012806192, y: 0.0047718417, z: 0.002431862}
+      rotation: {x: -0.1745863, y: -0.25697345, z: -0.12495519, w: 0.94226885}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: "\u85AC\u6307\uFF12.R"
+      parentName: "\u85AC\u6307\uFF11.R"
+      position: {x: 3.72529e-10, y: 0.0026205904, z: -0.0000000011920929}
+      rotation: {x: 0.0027531842, y: 0.0078587225, z: -0.007361054, w: 0.99993825}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u85AC\u6307\uFF12.R_end"
+      parentName: "\u85AC\u6307\uFF12.R"
+      position: {x: -0, y: 0.007377338, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u89AA\u6307\uFF10.R"
+      parentName: "\u624B\u9996.R"
+      position: {x: 0.00077452644, y: 0.0022326505, z: -0.0036694696}
+      rotation: {x: -0.20702401, y: -0.011602086, z: -0.24834526, w: 0.9462194}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: "\u89AA\u6307\uFF11.R"
+      parentName: "\u89AA\u6307\uFF10.R"
+      position: {x: -0.0000000020861626, y: 0.0027668553, z: -0.000000002682209}
+      rotation: {x: 0.013997849, y: -0.0000008102505, z: 0.014001189, w: 0.9998041}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: "\u89AA\u6307\uFF11.R_end"
+      parentName: "\u89AA\u6307\uFF11.R"
+      position: {x: -0, y: 0.0068094325, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8155\u30B9\u30D1\u30A4\u30AF.R"
+      parentName: "\u3072\u3058.R"
+      position: {x: 0.0020735092, y: 0.0022609115, z: 0.0023238135}
+      rotation: {x: 0.8409602, y: 0.36571303, z: 0.36571363, w: 0.1590393}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: "\u8155\u30B9\u30D1\u30A4\u30AF.R_end"
+      parentName: "\u8155\u30B9\u30D1\u30A4\u30AF.R"
+      position: {x: -0, y: 0.00590168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u80A9\u93A7.R"
+      parentName: "\u8155.R"
+      position: {x: 0.000106817446, y: 0.0016467153, z: 0.0007254213}
+      rotation: {x: 0.37812507, y: 0.35714084, z: -0.08421508, w: 0.8499292}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: "\u80A9\u93A7.R_end"
+      parentName: "\u80A9\u93A7.R"
+      position: {x: -0, y: 0.007896184, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E0B\u534A\u8EAB 1"
+      parentName: "\u30BB\u30F3\u30BF\u30FC"
+      position: {x: -0.0000000012591636, y: 0.0025206076, z: 0.014403152}
+      rotation: {x: -0.000000022476465, y: 0.7071068, z: -0.7071067, w: 0.000000084293696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8DB3.L"
+      parentName: "\u4E0B\u534A\u8EAB 1"
+      position: {x: -0.005146819, y: 0.0069006085, z: 2.7153252e-10}
+      rotation: {x: -0.010091323, y: 0.023634933, z: -0.023634894, w: 0.9993903}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u3072\u3056.L"
+      parentName: "\u8DB3.L"
+      position: {x: 6.0768796e-10, y: 0.013231629, z: -5.5879353e-11}
+      rotation: {x: 0.023090994, y: -0.02332544, z: 0.02394035, w: 0.9991745}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: "\u8DB3\u9996.L"
+      parentName: "\u3072\u3056.L"
+      position: {x: -1.5567702e-11, y: 0.010827301, z: 2.9708768e-12}
+      rotation: {x: -0.5831636, y: 0.000000007470394, z: 0.000000023737952, w: 0.81235474}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "\u3064\u307E\u5148.L"
+      parentName: "\u8DB3\u9996.L"
+      position: {x: -4.0026102e-10, y: 0.0125309145, z: -3.195159e-10}
+      rotation: {x: 0.57254684, y: 9.436502e-10, z: 0.0000000013512917, w: 0.8198721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148.L_end"
+      parentName: "\u3064\u307E\u5148.L"
+      position: {x: -0, y: 0.001027348, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L"
+      parentName: "\u8DB3.L"
+      position: {x: -0.0026412227, y: 0.0003738164, z: -0.00011570917}
+      rotation: {x: 0.0106512, y: -0.047616232, z: 0.047162984, w: 0.99769485}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L_end"
+      parentName: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.L"
+      position: {x: -0, y: 0.009748312, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8DB3.R"
+      parentName: "\u4E0B\u534A\u8EAB 1"
+      position: {x: 0.005146819, y: 0.0069006085, z: -3.8286524e-10}
+      rotation: {x: -0.010091322, y: -0.023634871, z: 0.023634892, w: 0.9993903}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: "\u3072\u3056.R"
+      parentName: "\u8DB3.R"
+      position: {x: -6.833579e-10, y: 0.013231629, z: -9.313225e-11}
+      rotation: {x: 0.023090996, y: 0.023325445, z: -0.02394035, w: 0.9991745}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: "\u8DB3\u9996.R"
+      parentName: "\u3072\u3056.R"
+      position: {x: 2.9222147e-10, y: 0.010827301, z: -1.3282709e-13}
+      rotation: {x: -0.5831636, y: -0.00000000863093, z: -0.000000023379853, w: 0.81235474}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: "\u3064\u307E\u5148.R"
+      parentName: "\u8DB3\u9996.R"
+      position: {x: 4.367809e-10, y: 0.0125309145, z: -2.3384827e-11}
+      rotation: {x: 0.57254684, y: -9.649713e-10, z: -0.0000000013818199, w: 0.8198721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148.R_end"
+      parentName: "\u3064\u307E\u5148.R"
+      position: {x: -0, y: 0.001027348, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R"
+      parentName: "\u8DB3.R"
+      position: {x: 0.0026412227, y: 0.0003738164, z: -0.0001157092}
+      rotation: {x: 0.010651198, y: 0.047616232, z: -0.047162984, w: 0.99769485}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R_end"
+      parentName: "\u30B5\u30A4\u30C9\u30A2\u30FC\u30DE\u30FC.R"
+      position: {x: -0, y: 0.009748312, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC 1"
+      parentName: "\u4E0B\u534A\u8EAB 1"
+      position: {x: -3.929632e-10, y: 0.006674361, z: -0.006181288}
+      rotation: {x: 0, y: 0.000000031786513, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC_end"
+      parentName: "\u30D5\u30ED\u30F3\u30C8\u30A2\u30FC\u30DE\u30FC 1"
+      position: {x: -0, y: 0.009273603, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC 1"
+      parentName: "\u4E0B\u534A\u8EAB 1"
+      position: {x: 3.291941e-10, y: 0.0040126727, z: 0.0051782043}
+      rotation: {x: -1e-45, y: 0.00000003178651, z: -9.544623e-31, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC_end"
+      parentName: "\u30EA\u30A2\u30A2\u30FC\u30DE\u30FC 1"
+      position: {x: -0, y: 0.008346243, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8DB3\uFF29\uFF2B.L"
+      parentName: "\u5168\u3066\u306E\u89AA"
+      position: {x: -0.004528056, y: 0.004985356, z: 4.028062e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148\uFF29\uFF2B.L"
+      parentName: "\u8DB3\uFF29\uFF2B.L"
+      position: {x: -0, y: -0.004315401, z: 0.0117644025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148\uFF29\uFF2B.L_end"
+      parentName: "\u3064\u307E\u5148\uFF29\uFF2B.L"
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u8DB3\uFF29\uFF2B.R"
+      parentName: "\u5168\u3066\u306E\u89AA"
+      position: {x: 0.004528056, y: 0.004985356, z: 4.028062e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148\uFF29\uFF2B.R"
+      parentName: "\u8DB3\uFF29\uFF2B.R"
+      position: {x: -0, y: -0.004315401, z: 0.0117644025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3064\u307E\u5148\uFF29\uFF2B.R_end"
+      parentName: "\u3064\u307E\u5148\uFF29\uFF2B.R"
+      position: {x: -0, y: 0.0019999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u4E09\u67F1\u5F0F \u30E1\u30BF\u30EB\u30B2\u30E9\u30B9_mesh"
+      parentName: BOSS(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

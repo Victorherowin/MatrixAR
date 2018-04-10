@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DMB-Q" size="1.000000 0.750521" />
+    <ImageTarget name="DCR-A" size="1.000000 0.750521" />
+    <ImageTarget name="DCR-8" size="1.000000 0.750521" />
+    <ImageTarget name="DCR-7" size="1.000000 0.750521" />
+    <ImageTarget name="DCR-6" size="1.000000 0.750521" />
+    <ImageTarget name="DCR-5" size="1.000000 0.714286" />
+    <ImageTarget name="DM_C9" size="0.150000 0.106500" />
+  </Tracking>
+</QCARConfig>
